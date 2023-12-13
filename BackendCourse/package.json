@@ -1,6 +1,7 @@
 {
-	"author": "Jayden Pearce",
+	
 	"name": "fcc-learn-npm-package-json",
+	"author": "Jayden Pearce",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
